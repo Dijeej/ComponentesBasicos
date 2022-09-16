@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/comedia" android:title="Comédia" />
+    <item android:id="@+id/romance" android:title="Romance" />
+    <item android:id="@+id/acao" android:title="Ação" />
+    <item android:id="@+id/aventura" android:title="Aventura" />
+    <item android:id="@+id/terror" android:title="Terror" />
+</menu>

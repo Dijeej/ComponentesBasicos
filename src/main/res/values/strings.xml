@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">ComponentesBasicos</string>
+    <string name="toggle_turn_on">Turn On</string>
+    <string name="toggle_turn_off">Turn Off</string>
+    <string name="btn_display">Display</string>
+    <string name="btn_array">Array</string>
+    <string name="text">Text</string>
+    <string name="text_view">Text View</string>
+    <string name="auto_texto_view">Auto Complete</string>
+    <string name="spinner">Zodiaco</string>
+    <string name="btn_pop_up">Pop Up</string>
+    <string name="press_segredos">Segredos</string>
+    <string name="btn_grid">Ir para GridTab</string>
+
+    <string-array name="zodiaco_chines">
+        <item>Rato</item>
+        <item>Boi</item>
+        <item>Tigre</item>
+        <item>Coelho</item>
+        <item>Dragão</item>
+        <item>Serpente</item>
+        <item>Cavalo</item>
+        <item>Carneiro</item>
+        <item>Macaco</item>
+        <item>Galo</item>
+        <item>Cão</item>
+        <item>Javali</item>
+    </string-array>
+    <string-array name="item_array">
+        <item>Item 1</item>
+        <item>Item 2</item>
+    </string-array>
+</resources>
